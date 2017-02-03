@@ -1,0 +1,23 @@
+﻿  Text changer.c
+c:\users\andrey\documents\visual studio 2015\projects\text changer\text changer\text changer.c(20): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+c:\users\andrey\documents\visual studio 2015\projects\text changer\text changer\text changer.c(20): warning C4024: 'fgets': different types for formal and actual parameter 1
+c:\users\andrey\documents\visual studio 2015\projects\text changer\text changer\text changer.c(32): warning C4133: 'function': incompatible types - from 'int *' to 'const char *'
+c:\users\andrey\documents\visual studio 2015\projects\text changer\text changer\text changer.c(36): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[100]'
+c:\users\andrey\documents\visual studio 2015\projects\text changer\text changer\text changer.c(36): warning C4024: 'strstr': different types for formal and actual parameter 1
+c:\users\andrey\documents\visual studio 2015\projects\text changer\text changer\text changer.c(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\andrey\documents\visual studio 2015\projects\text changer\text changer\text changer.c(15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\andrey\documents\visual studio 2015\projects\text changer\text changer\text changer.c(16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\andrey\documents\visual studio 2015\projects\text changer\text changer\text changer.c(32): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\andrey\documents\visual studio 2015\projects\text changer\text changer\text changer.c(54): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(255): note: see declaration of 'strncat'
+c:\users\andrey\documents\visual studio 2015\projects\text changer\text changer\text changer.c(57): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\andrey\documents\visual studio 2015\projects\text changer\text changer\text changer.c(63): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\andrey\documents\visual studio 2015\projects\text changer\text changer\text changer.c(72): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2447): note: see declaration of 'fcloseall'
+  Text changer.vcxproj -> C:\Users\Andrey\documents\visual studio 2015\Projects\Text changer\Debug\Text changer.exe
